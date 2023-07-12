@@ -32,7 +32,7 @@ export const sendEmail = style({
   '@media': {
     [screenMQ.m]: {
       position: 'absolute',
-      width: 'inherit',
+      width: '160px',
       left: '50%',
       bottom: '122px',
       transform: 'translate(-50%, 0)',
